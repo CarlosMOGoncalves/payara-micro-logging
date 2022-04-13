@@ -201,6 +201,10 @@
 									<name>payaramicro.port</name>
 									<value>20000</value>
 								</property>
+								<property>
+                                    <name>payaramicro.rootDir</name>
+                                    <value>${domain.dir}</value>
+                                </property>
 							</systemProperties>
 							<appendSystemProperties>true</appendSystemProperties>
 							<autoDeployContextRoot>payara-micro-logging</autoDeployContextRoot>
