@@ -208,13 +208,6 @@
 							</systemProperties>
 							<appendSystemProperties>true</appendSystemProperties>
 							<autoDeployContextRoot>payara-micro-logging</autoDeployContextRoot>
-							<customJars>
-                            	<customJar>
-                            		<groupId>pt.test.cmg</groupId>
-                            		<artifactId>log-lib-test</artifactId>
-                            		<version>1.0.0</version>
-                            	</customJar>
-                            </customJars>
 						</configuration>
 					</execution>
 
